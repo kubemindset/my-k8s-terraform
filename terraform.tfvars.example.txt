@@ -1,0 +1,6 @@
+vpc_cidr            = "YOUR_VPC_CIDR"
+public_subnet_cidr  = "YOUR_PUBLIC_SUBNET_CIDR"
+private_subnet_cidr1 = "YOUR_PRIVATE_SUBNET_1_CIDR"
+private_subnet_cidr2 = "YOUR_PRIVATE_SUBNET_2_CIDR"
+region              = "YOUR_REGION"
+project             = "YOUR_PROJECT_NAME"
